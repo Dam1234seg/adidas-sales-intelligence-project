@@ -1,6 +1,7 @@
 # Adidas Sales Intelligence & Business Performance Analysis
 This project analyzes Adidas sales data to uncover insights into revenue, profitability, product performance, regional sales trends, and retailer effectiveness. Using SQL, Python, Excel, and Power BI, the project transforms raw sales data into interactive dashboards and business intelligence reports that support data-driven decision-making and sales forecasting.
 
+BUSINESS PROBLEM
 Adidas operates across multiple regions, retailers, and product categories, generating large volumes of sales data. However, decision-making is limited without clear visibility into performance trends, profitability drivers, and regional contributions. This project addresses the need for a centralized analytics system to improve strategic decisions.
 
 
