@@ -4,7 +4,7 @@ This project analyzes Adidas sales data to uncover insights into revenue, profit
 BUSINESS PROBLEM
 Adidas operates across multiple regions, retailers, and product categories, generating large volumes of sales data. However, decision-making is limited without clear visibility into performance trends, profitability drivers, and regional contributions. This project addresses the need for a centralized analytics system to improve strategic decisions.
 
-
+PROJECT OBJECTIVES
 - Analyze overall sales and profitability performance
 - Identify top-performing products and regions
 - Evaluate retailer contribution to revenue
@@ -12,7 +12,7 @@ Adidas operates across multiple regions, retailers, and product categories, gene
 - Improve business decision-making using data insights
 - Build forecasting models for future sales prediction
 
-
+TOOLS & TECHNOLOGIES
 - SQL (PostgreSQL)
 - Python (Pandas, NumPy, Matplotlib)
 - Microsoft Excel
@@ -20,7 +20,7 @@ Adidas operates across multiple regions, retailers, and product categories, gene
 - Jupyter Notebook
 - GitHub for version control
 
-
+PROJECT WORKFLOW
 1. Data Collection and Loading
 2. Data Cleaning and Preprocessing
 3. Exploratory Data Analysis (EDA)
@@ -30,7 +30,7 @@ Adidas operates across multiple regions, retailers, and product categories, gene
 7. Business Insights Extraction
 8. Sales Forecasting
 
-
+KEY ANALYSIS PERFORMED
 - Regional sales performance analysis
 - Product profitability analysis
 - Retailer performance ranking
@@ -38,21 +38,21 @@ Adidas operates across multiple regions, retailers, and product categories, gene
 - Profit margin analysis
 - Sales forecasting and trend detection
 
-
+KEY INSIGHTS
 - Certain regions contribute significantly higher revenue than others
 - Footwear products generate the highest profit margins
 - A small number of retailers account for a large portion of total sales
 - Sales show seasonal spikes during specific periods
 - Some products have high sales volume but low profitability
 
-
+RECOMMENDATIONS
 - Focus marketing efforts on high-performing regions
 - Strengthen partnerships with top-performing retailers
 - Reduce investment in low-profit products
 - Increase inventory before peak sales seasons
 - Optimize pricing strategies to improve profitability
 
-
+PROJECT STRUCTURE
 adidas-sales-intelligence-project/
 │
 ├── data/
@@ -64,14 +64,13 @@ adidas-sales-intelligence-project/
 ├── presentation/
 └── README.md
 
-
+FUTURE IMPROVEMENTS
 - Implement machine learning for advanced forecasting
 - Automate dashboard updates
 - Add real-time data integration
 - Build interactive web dashboard
 
-
-
+AUTHOR
 Developed by: Damilola Oluwasegun  
 Role: Data Analyst (Aspiring)  
 Skills: SQL, Python, Power BI, Excel
