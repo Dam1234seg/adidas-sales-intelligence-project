@@ -133,3 +133,10 @@ Skills: SQL, Python, Power BI, Excel
 
 # Profit Margin Analysis
 ![Proit Margin](images/profit_margin.PNG)    
+
+
+##  Reports
+Full written analysis is available in `/Reports`
+
+## 📽️ Presentation
+Slides for the project are available in `/Presentation`
