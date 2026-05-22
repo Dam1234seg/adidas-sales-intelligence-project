@@ -129,7 +129,7 @@ Skills: SQL, Python, Power BI, Excel
 ![Retailer Performance](images/retailer_performance.PNG)
 
 # Monthly Sales Trend Analysis
-![Monthly Sales Trend](monthly_trend_analysis.PNG)
+![Monthly Sales Trend](images/monthly_trend_analysis.PNG)
 
 # Profit Margin Analysis
-![Proit Margin](profit_margin.PNG)    
+![Proit Margin](images/profit_margin.PNG)    
