@@ -75,7 +75,7 @@ Developed by: Damilola Oluwasegun
 Role: Data Analyst (Aspiring)  
 Skills: SQL, Python, Power BI, Excel
 
-# POwer BI Sales Dashboard
+## Power BI Dashboard Power BI was used to develop interactive dashboards and KPI reports that visualize sales performance, profitability, regional trends, retailer contribution, product performance, and time-based sales analysis. The dashboard enables data-driven decision-making through dynamic visual storytelling, filtering, and business intelligence insights.
 
 ## Adidas_Executive_Dasboard 
 ![Adidas_Executive_Dasboard](images/Adidas_Executive_Dashboard.PNG) 
@@ -91,3 +91,45 @@ Skills: SQL, Python, Power BI, Excel
 
 # Reataier Contribution Analysis
 ![Reataier Contribution Analysis](images/Retailer_Contribution_Analysis.PNG)
+
+
+## Python Analysis Python was used for exploratory data analysis, data cleaning, visualization, and forecasting using Pandas and Matplotlib.
+
+## Load_dataset
+![Load adidas dataset](images/Load_adiadas_datset.PNG)
+
+# Dataset info
+![Dataset info](images/Check_dataset.PNG)
+
+# Data Cleaning 
+![Data Cleaning](images/data_cleaning.PNG)
+
+# Data Manipulation
+![Data Manipulation](images/data_manipulation.PNG)
+
+# Sales by Region
+![Sales by Region](images/total_sales_by_region.PNG)
+
+# Top Products
+![Top Products](images/top_products.PNG)
+
+# Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.PNG) 
+
+
+## SQL Analysis SQL was used to perform revenue analysis, retailer ranking, regional performance evaluation, and monthly sales trend analysis.
+
+## Top Product
+![Top Product](images/Top_Product.PNG)
+
+# Sales by Region
+![Sales by Region](images/sales_by_region.PNG)
+
+# Retailer Performance
+![Retailer Performance](images/retailer_performance.PNG)
+
+# Monthly Sales Trend Analysis
+![Monthly Sales Trend](monthly_trend_analysis.PNG)
+
+# Profit Margin Analysis
+![Proit Margin](profit_margin.PNG)    
