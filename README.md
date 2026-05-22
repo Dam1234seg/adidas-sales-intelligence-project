@@ -74,3 +74,20 @@ AUTHOR
 Developed by: Damilola Oluwasegun  
 Role: Data Analyst (Aspiring)  
 Skills: SQL, Python, Power BI, Excel
+
+# POwer BI Sales Dashboard
+
+## Adidas_Executive_Dasboard 
+![Adidas_Executive_Dasboard](images/Adidas_Executive_Dashboard.PNG) 
+
+# Regional Sales Analysis
+![Regional Sales Analysis](images/Adidas_Regional_Analysis.PNG) 
+
+# Monthly Sales Trend Analysis
+![Monthly Sales Trend Analysis](images/Monthly_Sales_Trend_Analysis.PNG) 
+
+# Product Revenue and Profit Analysis
+![Product Revenue and Profit Analysis](images/Product_revenue_Profit_Analysis.PNG)
+
+# Reataier Contribution Analysis
+![Reataier Contribution Analysis](images/Retailer_Contribution_Analysis.PNG)
